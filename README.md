@@ -1,9 +1,8 @@
-# psychic-enigma
-## testing demo from pluralsight
-### random list 
-- cat 1
-- cat 2
-- cat 3
-- cat 4
-- cat 5
-- 
+#   SAMPLE REPO ON GITHUB 
+## Github Getting Started 
+### The Basics 
+- Understanding the use of Github 
+- Create Repositories 
+- Work with Git and Github locally 
+- Create and work with issues 
+- create a wiki with a Github page 
